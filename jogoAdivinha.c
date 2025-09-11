@@ -8,4 +8,6 @@ int main(){
 
     int numeroSecreto = 50;
 
+    printf("O número secreto é %d ",numeroSecreto);
+
 }
