@@ -1,5 +1,7 @@
 # include <stdio.h>
 int main(){
-    printf("Olá mundo!");
+
+    //imprime o cabeçalho do jogo.
+    printf("* Bem vindo ao nosso jogo de adivinhação\n");
 
 }
