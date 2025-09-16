@@ -14,4 +14,8 @@ int main(){
     scanf("%d", &chute);
     printf("Seu chute foi %d\n", chute);
 
+    printf("Boa! Você acertou!");
+    printf("Vish! Você errou!");
+    
+
 }
